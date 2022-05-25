@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+백엔드 개발자
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Spring, JPA
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[https://github.com/ssamzag](https://github.com/ssamzag)
